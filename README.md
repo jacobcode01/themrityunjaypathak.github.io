@@ -93,7 +93,8 @@ cd themrityunjaypathak.github.io
 ```
 themrityunjaypathak.github.io/
 │
-├── Assets/                  
+├── Assets/
+│   ├── Background/          # Website Background Images                  
 │   ├── Blogs/               # Blog Images
 │   ├── Certificates/        # Certificate Images     
 │   ├── Icons/               # Website Icons
