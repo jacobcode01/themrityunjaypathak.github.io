@@ -1,4 +1,6 @@
-<a href="https://themrityunjaypathak.github.io/"><img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/455586fd-efaf-4f74-8e09-64a6dc222e79"></a>
+<h2 id="header" align="center">Mrityunjay Pathak</h2>
+
+<a href="https://themrityunjaypathak.github.io/"><img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/20cfeff4-85bf-4819-a226-ebbd774f0a42"></a>
 
 ## Features
 
