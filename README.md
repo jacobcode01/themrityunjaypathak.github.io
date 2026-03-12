@@ -1,4 +1,4 @@
-<h2 id="header" align="center">Mrityunjay Pathak</h2>
+<h1 id="header" align="center">Mrityunjay Pathak</h1>
 
 <a href="https://themrityunjaypathak.github.io/"><img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/20cfeff4-85bf-4819-a226-ebbd774f0a42"></a>
 
