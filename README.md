@@ -36,13 +36,6 @@
   <img title="Lenis" src="https://github.com/user-attachments/assets/daf63c6c-dbd5-4bf1-aa49-14274055ac8a" />
 </a>
 
-### Dark/Light Themes
-- Toggles between dark/light mode with a circular ripple transition powered by the View Transitions API.
-- Theme persists across sessions via `localStorage` with no flash on page load.
-- Falls back gracefully to a CSS transition on unsupported browsers.
-
-<img title="Themes" src="https://github.com/user-attachments/assets/50d597b7-2766-447d-81d7-0fc48ba99b72" />
-
 <hr>
 
 ## Installation
