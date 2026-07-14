@@ -26,14 +26,12 @@
   <img title="Hugeicons" src="https://github.com/user-attachments/assets/4b572c7a-03af-4fa5-96c8-f96dc9402974" />
 </a>
 
-### Flaticon
-- Additional icons and visual assets are sourced from **Flaticon**.
-- Offers a wide variety of icons for different use cases.
-- Helps maintain visual clarity while keeping the design minimal.
+### Dark/Light Themes
+- Toggles between dark/light mode with a circular ripple transition powered by the View Transitions API.
+- Theme persists across sessions via `localStorage` with no flash on page load.
+- Falls back gracefully to a CSS transition on unsupported browsers.
 
-<a href="https://www.flaticon.com/">
-  <img title="Flaticon" src="https://github.com/user-attachments/assets/d79a0000-e5ce-4692-b3b9-5277d3913563" />
-</a>
+<img title="Themes" src="https://github.com/user-attachments/assets/50d597b7-2766-447d-81d7-0fc48ba99b72" />
 
 <hr>
 
