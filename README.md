@@ -12,7 +12,7 @@
 </div>
 
 <a href="https://themrityunjaypathak.github.io">
-  <img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/1c2e93eb-20da-4725-aafa-949e75e41b1d" />
+  <img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/f47aef92-72f7-44c5-bcd0-e7865e4d3726" />
 </a>
 
 <hr>
