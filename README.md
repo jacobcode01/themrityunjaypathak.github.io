@@ -32,7 +32,7 @@
 - All anchor links, scroll-to-top, and CTA buttons route through Lenis for consistency.
 
 <a href="https://www.lenis.dev/">
-  <img title="Lenis" src="https://github.com/user-attachments/assets/5a98f09e-c258-45cd-aa30-51c47e61e92d" />
+  <img title="Lenis" src="https://github.com/user-attachments/assets/daf63c6c-dbd5-4bf1-aa49-14274055ac8a" />
 </a>
 
 ### Dark/Light Themes
