@@ -8,7 +8,7 @@
 
 ## Features
 
-### Fontshare
+### Professional Fonts
 - The website uses Fontshare for modern, high-quality typography.
 - It provides clean, professional fonts like *Satoshi* that enhance readability.
 - Optimized for performance and consistency across different devices.
@@ -17,7 +17,7 @@
   <img title="Fontshare" src="https://github.com/user-attachments/assets/9110673e-6d89-4a5a-9f73-a8d6411d4fde" />
 </a>
 
-### Hugeicons
+### Stroke Icons
 - Icons across the website are powered by Hugeicons.
 - Provides a consistent, minimal stroke-based icon style.
 - Lightweight and easy to integrate with customizable sizes and styles.
@@ -27,9 +27,10 @@
 </a>
 
 ### Smooth Scroll
-- Powered by Lenis for natural wheel deceleration and momentum.
-- Automatically disabled when `prefers-reduced-motion` is set.
-- All anchor links, scroll-to-top, and CTA buttons route through Lenis for consistency.
+- Powered by Lenis for a natural, momentum-based scrolling experience.
+- The page glides to a stop instead of cutting off instantly, giving the site a polished feel.
+- All navigation links, scroll-to-top, and call-to-action buttons are routed through Lenis for a consistent experience.
+- Automatically disabled for users who have `prefers-reduced-motion` enabled in their system settings.
 
 <a href="https://www.lenis.dev/">
   <img title="Lenis" src="https://github.com/user-attachments/assets/daf63c6c-dbd5-4bf1-aa49-14274055ac8a" />
