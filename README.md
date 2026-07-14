@@ -1,16 +1,5 @@
 <h3 align="center" id="top">Mrityunjay Pathak</h3>
 
-<div align="center">
-
-[![Live Site](https://img.shields.io/badge/Status-Live-brightgreen)](https://themrityunjaypathak.github.io)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=273338&style=flat)](#)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/MIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/themrityunjaypathak)
-
-</div>
-
 <a href="https://themrityunjaypathak.github.io">
   <img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/2cb9008b-5566-481f-95ed-f96791ad86b2" />
 </a>
