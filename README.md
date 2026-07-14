@@ -9,7 +9,7 @@
 ## Features
 
 ### Fontshare
-- The website uses **Fontshare** for modern, high-quality typography.
+- The website uses Fontshare for modern, high-quality typography.
 - It provides clean, professional fonts like *Satoshi* that enhance readability.
 - Optimized for performance and consistency across different devices.
 
@@ -18,12 +18,21 @@
 </a>
 
 ### Hugeicons
-- Icons across the website are powered by **Hugeicons**.
+- Icons across the website are powered by Hugeicons.
 - Provides a consistent, minimal stroke-based icon style.
 - Lightweight and easy to integrate with customizable sizes and styles.
 
 <a href="https://hugeicons.com/">
   <img title="Hugeicons" src="https://github.com/user-attachments/assets/4b572c7a-03af-4fa5-96c8-f96dc9402974" />
+</a>
+
+### Smooth Scroll
+- Powered by Lenis for natural wheel deceleration and momentum.
+- Automatically disabled when `prefers-reduced-motion` is set.
+- All anchor links, scroll-to-top, and CTA buttons route through Lenis for consistency.
+
+<a href="https://www.lenis.dev/">
+  <img title="Lenis" src="https://github.com/user-attachments/assets/5a98f09e-c258-45cd-aa30-51c47e61e92d" />
 </a>
 
 ### Dark/Light Themes
