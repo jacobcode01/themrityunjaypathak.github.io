@@ -1,7 +1,7 @@
 <h3 align="center" id="top">Mrityunjay Pathak</h3>
 
 <a href="https://themrityunjaypathak.github.io">
-  <img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/2cb9008b-5566-481f-95ed-f96791ad86b2" />
+  <img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/1b898cab-6556-4389-860b-846b00615b90" />
 </a>
 
 <hr>
