@@ -58,21 +58,7 @@ git clone https://github.com/themrityunjaypathak/themrityunjaypathak.github.io.g
 ```bash
 cd portfolio
 ```
-
-<hr>
-
-## Setup
-- After cloning, you can run the portfolio locally using either methods :
-
-**Option 1 : Open in Browser**
-- Simply open `index.html` directly in your browser
-
-**Option 2 : Run a Local Development Server**
-- For better testing, use VS Code Live Server
-- Open the project folder in Visual Studio Code
-- Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension (if not already installed)
-- Right-click on `index.html` → `Open with Live Server`
-- The site will open at `http://localhost:5500/`
+- Open `index.html` in a browser or use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code.
 
 <hr>
 
