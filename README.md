@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Built with Claude](https://img.shields.io/badge/Built_with-Claude-D97757?logo=claude&logoColor=fff&style=flat)](https://claude.ai)
 [![Live Site](https://img.shields.io/badge/Status-Live-brightgreen)](https://themrityunjaypathak.github.io)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)](#)
