@@ -1,7 +1,7 @@
 <h2 align="center" id="top">Mrityunjay Pathak</h2>
 
-<a href="https://themrityunjaypathak.github.io">
-  <img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/ff6afda9-f1e3-4e05-94f4-184bf1accb23" />
+<a href="https://mrityunjaypathak.com">
+  <img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/fff6797f-e77f-46a2-b66d-ff397fa16f9f" />
 </a>
 
 <hr>
@@ -56,7 +56,7 @@ cd portfolio
 >
 > If you want to fork or copy this repository to use for your own portfolio.
 >
-> Please be a decent human being and give proper credit by linking back to my website : [Mrityunjay Pathak](https://themrityunjaypathak.github.io/)
+> Please be a decent human being and give proper credit by linking back to my website : [Mrityunjay Pathak](https://mrityunjaypathak.com)
 >
 > You can also check out this [Quora](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) post to understand why giving credit matters.
 
